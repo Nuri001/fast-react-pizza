@@ -12,3 +12,8 @@ Payments are made on delivery, so no payment processing is necessary in the app<
 in this application to keep it really simple.<br>
 Each order will get a unique ID that should be displayed, so the user can later look up their order based on the ID<br>
 
+<h3>Technology</h3>
+Routing-> React-Router<br>
+Styling->Taileindcss<br>
+Rmote state management->React-Router<br>
+UI State Management->Redux
