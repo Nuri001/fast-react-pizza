@@ -2,7 +2,7 @@
 PROJECT REQUIREMENTS <br>
 Simple application, where users can order one or more pizzas from a menu. <br>
 Requires no user accounts and no login: users just input their names before using the app.<br>
-The pizza menu can change, so it should be loaded from an API ✔DONE.<br>
+The pizza menu can change, so it should be loaded from an API.<br>
 Users can add multiple pizzas to a cart before ordering.<br>
 Ordering requires just the user's name, phone number, and address.<br>
 If possible, GPS location should also be provided, to make delivery easier.<br>
